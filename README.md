@@ -3,7 +3,7 @@ Inspired by Kensuke Koike's pasta cutter work (wich can be found [on his instagr
 
 Simple python script where the user decides the resolution (number of strips to cut width-wise) and of course, the image!
 
-Can be used for fun or when you only took one picture but really wished you took four wierd looking images instead 📸
+Can be used for fun or when you only took one picture but really wished you took four wierd looking pictures instead 📸
 
 Demonstration with a monkey and 89 strips width-wise
 
